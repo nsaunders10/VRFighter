@@ -13,7 +13,7 @@ namespace Valve.VR.InteractionSystem
 	//-------------------------------------------------------------------------
 	public class DebugUI : MonoBehaviour
 	{
-		private Player player;
+/*		private Player player;
 
 		//-------------------------------------------------
 		static private DebugUI _instance;
@@ -40,9 +40,6 @@ namespace Valve.VR.InteractionSystem
 		//-------------------------------------------------
 		private void OnGUI()
 		{
-/*#if !HIDE_DEBUG_UI
-			player.Draw2DDebug();
-#endif*/
-		}
+		}*/
 	}
 }
